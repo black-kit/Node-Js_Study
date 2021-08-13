@@ -1,0 +1,11 @@
+### rest echo test
+Get http://localhost:8090/echo?msg=nodejs^title=hello
+
+### rest sum test
+Get http://localhost:8090/sum?a=1&b=2
+
+### rest sub test
+Get http://localhost:8090/sub?a=1&b=2
+
+### rest avg test
+Get http://localhost:8090/avg?a=1&b=2&c=3&d=4&e=5
