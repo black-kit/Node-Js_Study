@@ -1,0 +1,3 @@
+### echo post test
+GET http://localhost:8090/echo
+my-custom-header : 'hi'
